@@ -10,7 +10,6 @@ local games = {
 	[15022320] = 'https://api.luarmor.net/files/v3/loaders/5626ab81ffceae865d22d54cb5042edf.lua', -- TTD
 	[5102326] = 'https://api.luarmor.net/files/v3/loaders/1b4c42f5913d7a5b7be56ee7766eb814.lua', -- ACD
 	[34121350] = 'https://api.luarmor.net/files/v3/loaders/1b4c42f5913d7a5b7be56ee7766eb814.lua' -- AD
-  [34121350] = 'https://raw.githubusercontent.com/KazeOnTop/Rice-Anti-Afk/main/Wind' -- AD
 }
 
 if games[game.CreatorId] then
